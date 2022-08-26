@@ -26,4 +26,4 @@ const Index = () => {
         </div>
     )
 };
-export default initStore.withRedux(Index); 
+export default initStore.withRedux(Index); //
